@@ -6,20 +6,27 @@ A study on Food Security in Chicago
 # Abstract
 _A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?_
 
+USA is a country that runs surrounded by food culture, being one of its pillars. On the other hand, we have that Chicago is one of the most influential cities in the North American country. We want to combine these two insights in order to build an analysis on how food industry is tightened to Chicago, but having a very particular viewpoint: we will look how safe is to eat or buy food in the city.
+
+We will use Chicago Department of Public Health’s corpus, containing data from inspections made in food establishments, in order to create a meaningful study on food security in the city. We would like to focus on understanding the reasons behind violations on the Public Health’s laws, and see if we can draw relations on the area environment, such as average income, location or social status.
+
+We believe that conclusions extracted from such study will help to better understand this outstanding city.
+
+
 # Research questions
-_A list of research questions you would like to address during the project._
+We propose a list of questions that we would like to address during the project:
 
 - Have food establishments with failed inspections improved through the years?
 - What connections can be found between economic prosperity and the quality of the inspections in an area? 
 - Are there differences between big companies and franchises and small businesses? State-owned and private? (Can we do this?) Different types of establishments? Different types of food they serve?
+- Are there areas that are more food secure than others in Chicago?
 - Can we find indications of food establishments closing down due to failed inspections?
+- What type of faults are the most frequent?
 - Can we find a measure of severity by processing detailed data?
 
 These questions may vary in depth and/or breadth as we proceed analysing the dataset. Also, new questions may be addressed in case we consider them appropriate for a more interesting outcome.
 
 # Dataset
-_List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant._
-
 The main dataset that we will use is the [Chicago Food Inspections](https://www.kaggle.com/chicago/chicago-food-inspections) dataset, which contains information regarding inspections of restaurants and other food establishments in Chicago from January 1, 2010 to the present. This is a dataset provided by the City of Chicago, and inspections are performed the Chicago Department of Public Health’s Food Protection Program, so we can assume the veracity of the data.
 
 The corpus includes data of nearly 200.000 inspections made. It is formatted in one CSV file, which makes easier a first visual inspection on all the corpus available. Inspection features include the name of the establishment, its type (grocery store, restaurant, daycare, etc), its address and zip code, its risk of adversely affecting the public’s health, the result of the inspection together with detailed comments, and the date in which this inspection was done.
@@ -38,8 +45,6 @@ _Add here a sketch of your planning for the next project milestone._
 - Gather from external sources as much supporting information as possible, in order to enrich the analysis. This includes the average income per zone in Chicago, a more accurate segmentation of the type of business (e.g.: for restaurants, we could divide them in Italian, Japanese, Mexican or state owned versus privately owned, etc.), or locations of main tourist attractions, among others.
 
 # Questions for TAa
-_Add here some questions you have for us, in general or project-specific._
-
 - Is there any popular source to find the map coordinates of regions, such as the per-state USA map used in the tutorials?
 - What is a good scope of the project? Are we proposing too many different questions, should we just focus on a particular aspect of the dataset...?
 - Are we fulfilling the "social good" requirement?
