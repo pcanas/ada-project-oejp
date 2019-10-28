@@ -5,7 +5,7 @@ A study on Food Security in Chicago
 
 # Abstract
 
-USA is a country that runs surrounded by food culture, being one of its pillars. On the other hand, we have that Chicago is one of the most influential cities in the North American country. We want to combine these two insights in order to build an analysis on how food industry is tightened to Chicago, but having a very particular viewpoint: we will look how safe is to eat or buy food in the city.
+USA is a country who puts a large importance on food and has a very diverse food culture. We also have that Chicago is one of the most influential cities in the North American country. We want to combine these two insights in order to build an analysis on the food industry as it pertains to Chicago, but with a very specific viewpoint: we will look at how safe is to eat or buy food in Chicago.
 
 We will use Chicago Department of Public Health’s corpus, containing data from inspections made in food establishments, in order to create a meaningful study on food security in the city. We would like to focus on understanding the reasons behind violations on the Public Health’s laws, and see if we can draw relations on the area environment, such as average income, location or social status.
 
