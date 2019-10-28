@@ -46,7 +46,7 @@ Additionally, we will try to support our findings with auxiliary information reg
 
 # Questions for TAs
 
-- Is there any popular source to find the map coordinates of regions, such as the per-state USA map used in the tutorials?
+- Is there any other popular source to find the map coordinates of regions, such as the per-state USA map used in the tutorials?
 - What is a good scope of the project? Are we proposing too many different questions, should we just focus on a particular aspect of the dataset...?
 - Are we fulfilling the "social good" requirement?
 - Are the analysis tools studied until now enough to achieve a relevant analysis, or should we research on more complex methods or concepts not covered during the course?
