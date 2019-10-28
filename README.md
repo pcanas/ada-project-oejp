@@ -33,7 +33,6 @@ Although some characteristics may need formatting, a first look at the dataset i
 Besides the Chicago Food inspection dataset we will use income statistics provided by [United States Census Bureau](https://www.census.gov/data.html) . The data from the Census Bureau is provided by Data USA in a more easily accessible form. For the city of [Chicago](https://datausa.io/profile/geo/chicago-il/) they provide several datasets. 
 The Census Bureau also provides [geographical data](https://www.census.gov/programs-surveys/geography.html) about states, cites, zip codes, and survey tracts. 
 
-The Census Bureau also provides 
 
 # A list of internal milestones up until project milestone 2
 
