@@ -4,7 +4,6 @@
 A study on Food Security in Chicago
 
 # Abstract
-_A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?_
 
 USA is a country that runs surrounded by food culture, being one of its pillars. On the other hand, we have that Chicago is one of the most influential cities in the North American country. We want to combine these two insights in order to build an analysis on how food industry is tightened to Chicago, but having a very particular viewpoint: we will look how safe is to eat or buy food in the city.
 
@@ -35,7 +34,6 @@ Although some characteristics may need formatting, a first look at the dataset i
 We will try to support our findings with auxiliary information regarding the City of Chicago, such as gross income in the area where the establishment is set. As the City of Chicago has plenty of open source datasets, research will be conducted to find useful information.
 
 # A list of internal milestones up until project milestone 2
-_Add here a sketch of your planning for the next project milestone._
 
 - Extract interesting information from the Violations column. 
 
@@ -48,6 +46,7 @@ _Add here a sketch of your planning for the next project milestone._
 - Plot and analyze different relations between columns to give us an indication of which of the research questions we can take on.
 
 # Questions for TAs
+
 - Is there any popular source to find the map coordinates of regions, such as the per-state USA map used in the tutorials?
 - What is a good scope of the project? Are we proposing too many different questions, should we just focus on a particular aspect of the dataset...?
 - Are we fulfilling the "social good" requirement?
