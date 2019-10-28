@@ -7,8 +7,6 @@ A study on Food Security in Chicago
 
 USA is a country who puts a large importance on food and has a very diverse food culture. We also have that Chicago is one of the most influential cities in the North American country. We want to combine these two insights in order to build an analysis on the food industry as it pertains to Chicago, but with a very specific viewpoint: we will look at how safe is to eat or buy food in Chicago.
 
-When working with food keeping a clean work environment is important. Whilst it is easy to verify at home that our kitchen is clean, it is much harder to make sure of it at the local grocery stores or our favorite restaurant. For this reason such establishments are regularly controlled by state Food Protection Programs. Severe breaking of regulations may even lead to the closing of an establishment.
-
 We will use Chicago Department of Public Health’s corpus, containing data from inspections made in food establishments, in order to create a meaningful study on food security in the city. We would like to focus on understanding the reasons behind violations on the Public Health’s laws, and see if we can draw relations on the area environment, such as average income, geographical location or social status.
 
 We believe that conclusions extracted from such study will help to better understand this outstanding city.
