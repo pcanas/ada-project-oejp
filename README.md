@@ -35,15 +35,11 @@ We will try to support our findings with auxiliary information regarding the Cit
 
 # A list of internal milestones up until project milestone 2
 
-- Extract interesting information from the Violations column. 
-
-- Find out the differences between different inspection types (Canvass, License, etc.) and different types of establishments.
-
-- Gather from external sources as much supporting information as possible, in order to enrich the analysis. This includes the average income per zone in Chicago, a more accurate segmentation of the type of business (e.g.: for restaurants, we could divide them in Italian, Japanese, Mexican or state owned versus privately owned, etc.), or locations of main tourist attractions, among others.
-
-- Find a resource that allows us plot an accurate map of Chicago, including a division per ZIP Code. This is of vital importance in order to succeed in our map plots, which we believe are crucial for the analysis.
-
-- Plot and analyze different relations between columns to give us an indication of which of the research questions we can take on.
+- [ ] Extract interesting information from the Violations column. 
+- [ ] Find out the differences between different inspection types (Canvass, License, etc.) and different types of establishments.
+- [ ] Gather from external sources as much supporting information as possible, in order to enrich the analysis. This includes the average income per zone in Chicago, a more accurate segmentation of the type of business (e.g.: for restaurants, we could divide them in Italian, Japanese, Mexican or state owned versus privately owned, etc.), or locations of main tourist attractions, among others.
+- [ ] Find a resource that allows us plot an accurate map of Chicago, including a division per ZIP Code. This is of vital importance in order to succeed in our map plots, which we believe are crucial for the analysis.
+- [ ] Plot and analyze different relations between columns to give us an indication of which of the research questions we can take on.
 
 # Questions for TAs
 
