@@ -1,3 +1,4 @@
+
 # Title
 
 A study on Food Security in Chicago
@@ -11,12 +12,17 @@ We will use Chicago Department of Public Health’s corpus, containing data from
 We believe that conclusions extracted from such study will help to better understand this outstanding city.
 
 # Research questions
-After considering the opportunities and limitations of the corpus, together with the feedback provided from Milestone 1, we have updated our research questions. We propose the following:
+We propose a list of questions that we would like to address during the project:
 
-- What connections can be found between economic prosperity and the frequency of the inspections in an area, i.e. is there some bias? Is there also a connection between economic prosperity and food safety and types of violations?
-- Are there differences in food safety between big companies and franchises and small businesses?
+- Have food establishments with failed inspections improved through the years?
+- What connections can be found between economic prosperity and the quality of the inspections in an area?
+- Are there differences in failing rates between big companies and franchises and small businesses? State-owned and private? Different types of establishments? Different types of food they serve?
+- Are there areas that have more safe food establishments than others in Chicago?
+- Can we find indications of food establishments closing down due to failed inspections?
+- What type of violations are the most frequent?
+- Can we find a measure of severity by processing the detailed data?
 
-Although we think that addressing these topics has the potential for a good data story, we are still open to change the focus or pivot to a different topic in case we encounter with unexpected results that are considered to be more interesting.
+These questions may vary in depth and/or breadth as we proceed analyzing the dataset. Also, new questions may be addressed in case we consider them appropriate for a more interesting outcome, but old questions might be dropped as well if we find no way to give a meaningful answer to them.
 
 # Dataset
 The main dataset that we will use is the [Chicago Food Inspections](https://www.kaggle.com/chicago/chicago-food-inspections) dataset, which contains information regarding inspections of food establishments in Chicago. The earliest entries are from January 1, 2010 and the newest ones are from October 23, 2019. This is a dataset provided by the City of Chicago, and inspections are performed the Chicago Department of Public Health’s Food Protection Program, so we can assume the veracity of the data.
@@ -29,23 +35,18 @@ Additionally, we will try to support our findings with auxiliary information reg
 
 # A list of internal milestones up until project milestone 2
 
-- [x] Decide on the tasks and duties of each of the members of the group.
-- [x] Find a resource that allows us plot an accurate map of Chicago, including a division per ZIP Code. This is of vital importance in order to succeed in our map plots, which we believe are crucial for the analysis.
-- [x] Find out the differences between different inspection types (Canvass, License, etc.) and different types of establishments.
-- [x] Gather from external sources as much supporting information as possible, in order to enrich the analysis. This includes the average income per zone in Chicago, a more accurate segmentation of the type of business (e.g.: for restaurants, we could divide them in Italian, Japanese, Mexican or state owned versus privately owned, etc.), or locations of main tourist attractions, among others.
-- [x] Pre-process the provided dataset in order to solve potential NULL values, duplicate inspection reports, or other inconsistent data.
-- [x] Extract interesting information from the Violations column.
-- [x] Plot and analyze different relations between columns to give us an indication of which of the research questions we can take on.
-- [ ] ~~Once we have a better idea of the opportunities and limitations of the corpus, discuss narrative of the data story.~~
-
-# A list of internal milestones up until project milestone 3
-
-- [ ] Perform data analysis in order to obtain a complete research of the questions proposed for our project.
-- [ ] Once considered all the opportunities and limitations of the corpus, discuss the narrative to follow for our project.
-- [ ] Based on our findngs, discuss whether to go for a data story or a report.
-- [ ] Iterate through the final document to obtain the best possible results/analysis.
-
+- [ ] Decide on the tasks and duties of each of the members of the group.
+- [ ] Find a resource that allows us plot an accurate map of Chicago, including a division per ZIP Code. This is of vital importance in order to succeed in our map plots, which we believe are crucial for the analysis.
+- [ ] Find out the differences between different inspection types (Canvass, License, etc.) and different types of establishments.
+- [ ] Gather from external sources as much supporting information as possible, in order to enrich the analysis. This includes the average income per zone in Chicago, a more accurate segmentation of the type of business (e.g.: for restaurants, we could divide them in Italian, Japanese, Mexican or state owned versus privately owned, etc.), or locations of main tourist attractions, among others.
+- [ ] Pre-process the provided dataset in order to solve potential NULL values, duplicate inspection reports, or other inconsistent data.
+- [ ] Extract interesting information from the Violations column.
+- [ ] Plot and analyze different relations between columns to give us an indication of which of the research questions we can take on.
+- [ ] Once we have a better idea of the opportunities and limitations of the corpus, discuss narrative of the data story.
 
 # Questions for TAs
 
-No questions :)
+- Is there any other popular source to find the map coordinates of regions, such as the per-state USA map used in the tutorials?
+- What is a good scope of the project? Are we proposing too many different questions, should we just focus on a particular aspect of the dataset...?
+- Are we fulfilling the "social good" requirement?
+- Are the analysis tools studied until now enough to achieve a relevant analysis, or should we research on more complex methods or concepts not covered during the course?
