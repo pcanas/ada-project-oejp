@@ -3,7 +3,7 @@ https://pcanas.github.io/chicago-oejp/
 
 # Title
 
-A study on Food Security in Chicago
+Chicago: is your food safe?
 
 # Abstract
 
@@ -30,25 +30,8 @@ Although some characteristics may need formatting, a first look at the dataset i
 
 Additionally, we will try to support our findings with auxiliary information regarding the City of Chicago. We have checked on several possible resources, such as income statistics provided by the [United States Census Bureau](https://www.census.gov/data.html) . The data from the Census Bureau is provided by Data USA in a more easily accessible form. For the city of [Chicago](https://datausa.io/profile/geo/chicago-il/) they provide several datasets. The Census Bureau also provides [geographical data](https://www.census.gov/programs-surveys/geography.html) about states, cites, zip codes, and survey tracts. Besides, as the City of Chicago has plenty of open source datasets, research will be conducted to find useful information.
 
-# A list of internal milestones up until project milestone 2
-
-- [x] Decide on the tasks and duties of each of the members of the group.
-- [x] Find a resource that allows us plot an accurate map of Chicago, including a division per ZIP Code. This is of vital importance in order to succeed in our map plots, which we believe are crucial for the analysis.
-- [x] Find out the differences between different inspection types (Canvass, License, etc.) and different types of establishments.
-- [x] Gather from external sources as much supporting information as possible, in order to enrich the analysis. This includes the average income per zone in Chicago, a more accurate segmentation of the type of business (e.g.: for restaurants, we could divide them in Italian, Japanese, Mexican or state owned versus privately owned, etc.), or locations of main tourist attractions, among others.
-- [x] Pre-process the provided dataset in order to solve potential NULL values, duplicate inspection reports, or other inconsistent data.
-- [x] Extract interesting information from the Violations column.
-- [x] Plot and analyze different relations between columns to give us an indication of which of the research questions we can take on.
-- [ ] ~~Once we have a better idea of the opportunities and limitations of the corpus, discuss narrative of the data story.~~
-
-# A list of internal milestones up until project milestone 3
-
-- [ ] Perform data analysis in order to obtain a complete research of the questions proposed for our project.
-- [ ] Once considered all the opportunities and limitations of the corpus, discuss the narrative to follow for our project.
-- [ ] Based on our findngs, discuss whether to go for a data story or a report.
-- [ ] Iterate through the final document to obtain the best possible results/analysis.
-
-
-# Questions for TAs
-
-No questions :)
+# Contributions
+- Oskar: Problem formulation, preprocessing of data, leading part 2 of our analysis, writing data story.
+- Jeffrey: Problem formulation, preprocessing of data, leading part 1 of our analysis, writing data story.
+- Eric: Problem formulation, preprocessing of data, contributing to data analysis, leading data story text.
+- Pablo: Problem formulation, preprocessing of data, writing data story, preparing the final presentation.
