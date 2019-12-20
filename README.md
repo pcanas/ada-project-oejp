@@ -1,3 +1,6 @@
+# Link to our data story
+https://pcanas.github.io/chicago-oejp/
+
 # Title
 
 A study on Food Security in Chicago
